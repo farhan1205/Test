@@ -8,5 +8,8 @@
 </head>
 <body>
     <h1>Selamat datang</h1>
+    <p>Halo Semua</p>
+    <label for="input">Nama</label>
+    <input name="input" type="text"></input>
 </body>
 </html>
